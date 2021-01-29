@@ -16,3 +16,6 @@
   * precision
   * recall
   * confusion matrix
+  * F1 Score
+  * ROC Curve & AUC
+2. evaluation_Pima_Indians_Diabetes
