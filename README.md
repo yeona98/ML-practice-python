@@ -1,4 +1,4 @@
-# ML-practice-python
+# MachineLearning-with-python
 > **basic**
 1. pandas basic
 2. numpy basic
